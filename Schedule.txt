@@ -1,4 +1,4 @@
-schedule: Monday September 16
+Schedule: Monday September 16
 Requirements: Monday September 30
 Analysis: Monday October 14
 Design: Monday November 11
